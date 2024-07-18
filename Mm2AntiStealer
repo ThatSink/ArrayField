@@ -1,4 +1,4 @@
--- If you have bought this you have been SCAMMED, this is a free OPENSORUCE script available at github.com/ThatSink
+-- If you have bought this you have been SCAMMED, this is a free OPENSORUCE script | by KirkaTMrus
 function SetConstants()
 	Player = game.Players.LocalPlayer
 	SendRequestF = game.ReplicatedStorage.Trade.SendRequest
